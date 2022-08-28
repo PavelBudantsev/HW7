@@ -26,9 +26,9 @@
 
 // Задайте массив вещественных чисел.
 // Найдите разницу между максимальным и минимальным элементов массива.
-Double[] array = new Double[12];
-Double min = 0;
-Double max = 0;
+double[] array = new double[12];
+double min = 0;
+double max = 0;
 
 for (int i = 0; i < array.Length; i++)
 {

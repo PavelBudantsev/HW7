@@ -1,0 +1,15 @@
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/bin/Debug/net6.0/HW6
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/bin/Debug/net6.0/HW6.deps.json
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/bin/Debug/net6.0/HW6.runtimeconfig.json
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/bin/Debug/net6.0/HW6.dll
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/bin/Debug/net6.0/HW6.pdb
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/HW6.csproj.AssemblyReference.cache
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/HW6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/HW6.AssemblyInfoInputs.cache
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/HW6.AssemblyInfo.cs
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/HW6.csproj.CoreCompileInputs.cache
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/HW6.dll
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/refint/HW6.dll
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/HW6.pdb
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/HW6.genruntimeconfig.cache
+/Users/olgabudanceva/Desktop/хламовник/Пашка/GeekBrains/Си Шарп/C_HomeWorks/HW6/obj/Debug/net6.0/ref/HW6.dll
